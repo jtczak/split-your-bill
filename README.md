@@ -1,0 +1,1 @@
+Calculate your bill (tip included) with friends using simple app!
